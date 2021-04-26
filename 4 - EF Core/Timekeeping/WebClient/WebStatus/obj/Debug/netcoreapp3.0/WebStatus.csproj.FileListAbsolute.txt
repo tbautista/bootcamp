@@ -1,0 +1,192 @@
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\bundleconfig.json
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\WebStatus.exe
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\appsettings.json
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\healthchecksdb
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\WebStatus.deps.json
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\WebStatus.runtimeconfig.json
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\WebStatus.runtimeconfig.dev.json
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\WebStatus.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\WebStatus.pdb
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\WebStatus.Views.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\WebStatus.Views.pdb
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\HealthChecks.UI.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\HealthChecks.UI.Client.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\HealthChecks.Uris.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Json.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.AzureAppServices.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.AspNetCore.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Enrichers.Environment.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Extensions.Hosting.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Extensions.Logging.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Formatting.Compact.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Settings.Configuration.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Sinks.Console.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Sinks.Debug.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Sinks.File.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Sinks.Http.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Sinks.PeriodicBatching.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Sinks.RollingFile.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Sinks.Seq.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.csprojAssemblyReference.cache
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\staticwebassets\WebStatus.StaticWebAssets.Manifest.cache
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\staticwebassets\WebStatus.StaticWebAssets.xml
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.MvcApplicationPartsAssemblyInfo.cache
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.RazorAssemblyInfo.cache
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.RazorAssemblyInfo.cs
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.AssemblyInfoInputs.cache
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.AssemblyInfo.cs
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.TagHelpers.input.cache
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.TagHelpers.output.cache
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.RazorCoreGenerate.cache
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.RazorTargetAssemblyInfo.cache
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.RazorTargetAssemblyInfo.cs
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.Views.pdb
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.csproj.CopyComplete
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.dll
+C:\SourceCode\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.pdb
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\bundleconfig.json
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\WebStatus.exe
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\healthchecksdb
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\WebStatus.deps.json
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\WebStatus.runtimeconfig.json
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\WebStatus.runtimeconfig.dev.json
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\WebStatus.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\WebStatus.pdb
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\WebStatus.Views.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\WebStatus.Views.pdb
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\HealthChecks.UI.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\HealthChecks.UI.Client.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\HealthChecks.Uris.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.AzureAppServices.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.AspNetCore.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Enrichers.Environment.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Extensions.Hosting.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Extensions.Logging.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Formatting.Compact.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Settings.Configuration.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Sinks.Console.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Sinks.Debug.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Sinks.File.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Sinks.Http.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Sinks.RollingFile.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\Serilog.Sinks.Seq.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.csprojAssemblyReference.cache
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\staticwebassets\WebStatus.StaticWebAssets.Manifest.cache
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\staticwebassets\WebStatus.StaticWebAssets.xml
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.RazorAssemblyInfo.cache
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.RazorAssemblyInfo.cs
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.AssemblyInfoInputs.cache
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.AssemblyInfo.cs
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.TagHelpers.input.cache
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.TagHelpers.output.cache
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.RazorCoreGenerate.cache
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.RazorTargetAssemblyInfo.cache
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.RazorTargetAssemblyInfo.cs
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.Views.pdb
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.csproj.CopyComplete
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\WebClient\WebStatus\obj\Debug\netcoreapp3.0\WebStatus.pdb

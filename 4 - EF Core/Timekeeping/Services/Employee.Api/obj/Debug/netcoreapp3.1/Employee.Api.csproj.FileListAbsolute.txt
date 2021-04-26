@@ -1,0 +1,206 @@
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.exe
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.deps.json
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.runtimeconfig.json
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.runtimeconfig.dev.json
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.pdb
+C:\SourceCode\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.csprojAssemblyReference.cache
+C:\SourceCode\Employee.Api\obj\Debug\netcoreapp3.1\staticwebassets\Employee.Api.StaticWebAssets.Manifest.cache
+C:\SourceCode\Employee.Api\obj\Debug\netcoreapp3.1\staticwebassets\Employee.Api.StaticWebAssets.xml
+C:\SourceCode\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\SourceCode\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.AssemblyInfoInputs.cache
+C:\SourceCode\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.AssemblyInfo.cs
+C:\SourceCode\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.RazorTargetAssemblyInfo.cache
+C:\SourceCode\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.dll
+C:\SourceCode\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.pdb
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\SourceCode\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.csproj.CopyComplete
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SourceCode\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\SourceCode\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.exe
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.deps.json
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.runtimeconfig.json
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.runtimeconfig.dev.json
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.pdb
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.csprojAssemblyReference.cache
+C:\SourceCode\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\staticwebassets\Employee.Api.StaticWebAssets.Manifest.cache
+C:\SourceCode\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\staticwebassets\Employee.Api.StaticWebAssets.xml
+C:\SourceCode\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\SourceCode\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\SourceCode\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.AssemblyInfoInputs.cache
+C:\SourceCode\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.AssemblyInfo.cs
+C:\SourceCode\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.RazorTargetAssemblyInfo.cache
+C:\SourceCode\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.csproj.CopyComplete
+C:\SourceCode\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.dll
+C:\SourceCode\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.pdb
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.exe
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.deps.json
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.runtimeconfig.json
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.runtimeconfig.dev.json
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Employee.Api.pdb
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.csprojAssemblyReference.cache
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\staticwebassets\Employee.Api.StaticWebAssets.Manifest.cache
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\staticwebassets\Employee.Api.StaticWebAssets.xml
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.AssemblyInfoInputs.cache
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.AssemblyInfo.cs
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.RazorTargetAssemblyInfo.cache
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.csproj.CopyComplete
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\obj\Debug\netcoreapp3.1\Employee.Api.pdb
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\TJAY31243\Documents\Workshop\Workshop 4 - EF Core\Timekeeping\Services\Employee.Api\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
